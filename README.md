@@ -7,6 +7,8 @@
 ## 🌈About me
 <h3 align="center">I'm an enthusiast FullStack Frontend oriented developer, proactive and high motivated for what I do. I love designing, creating and learning. I'm always looking for enhancing my habilities and improve myself. Generate a positive impact is my goal💪 </h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 📫 How to reach me: **brunmoira@gmail.com**
