@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moira-brun/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/moichubr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://tu-sitio-web.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://moirabrun.netlify.app/)
 
 ## 🌈About me
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
