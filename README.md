@@ -5,8 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://moirabrun.netlify.app/)
 
 ## 🌈About me
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
-<h3 align="left">I'm an enthusiast FullStack Frontend oriented developer, proactive and high motivated for what I do. I love designing, creating and learning. I'm always looking for enhancing my habilities and improve myself. Generate a positive impact is my goal💪 </h3>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<h3 align="left">I'm a web developer, proactive and high motivated for what I do. I love designing, creating and learning. I'm always looking for enhancing my habilities and improve myself. Generate a positive impact is my goal💪 </h3>
 
 - 🌱 I’m currently learning **React Native**
 
