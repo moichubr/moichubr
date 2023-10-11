@@ -19,15 +19,16 @@
 
 ## 🌱 Recent projects
 
+- [Agroseed Servicios](https://github.com/moichubr/agroseeds): Landing page para una empresa agrícola con el objetivo de fortalecer su presencia digital. La arquitectura de la información esta orientada a brindar una experiencia de usuario clara y sencilla, comunicando los servicios que se ofrecen y el valor agregado de la empresa, haciendo hincapié en generar un proceso de contacto rápido y personalizado entre el visitante y la empresa a través de whatsapp.
 - [Wanderlust](https://wanderlust-phi.vercel.app): Travel e-commerce app for a travel agency that connects travelers desires with the agency offered packages. Contribute to the entire development of the purchase process: shopping cart, Paypal's payment gateway on the front end, purchases display in the user profile. Besides, implement UX/UI design in multiple views of the app.
 - [FOODYAPP](https://github.com/moichubr/foodyApp): My role in this project was a fullstack development from scratch to completion. It's a recipe app that works as a recipe book where users can find over +100 recipes, create there own ones and delete them if wanted. Can apply filters and sorts, and search recipes by name or keyword.
-- [Rick and Morty](https://github.com/moichubr/RickAndMortyApp): This is an academic experience where I worked as a fullstack developer applying all learned technologies. It's an app where user can find over +750 Rick and Morty's serie characters, save them as favorites, delete them if wanted, filter and sort them.
+
 
 
 ## 🔧 Skills
 
-- 💻 Software development: JavaScript, React, Redux, HTML5, Node.js, Express, PostgreSQL 
-- 📊 Data processing and analysis from API's
+- 💻 Software development: JavaScript, React, Redux, HTML5, Node.js, Express, PostgreSQL, Webpack, Vite 
+- 📊 Data processing and analysis from API's: RESTful APIs
 - 🎨 UX/UI design: CSS3, TailwindCSS, Bootstrap, Less, Figma
   
 
