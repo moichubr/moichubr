@@ -27,9 +27,8 @@
 
 ## 🔧 Skills
 
-- 💻 Software development: JavaScript, React, Redux, HTML5, Node.js, Express, PostgreSQL, Webpack, Vite 
-- 📊 Data processing and analysis from API's: RESTful APIs
-- 🎨 UX/UI design: CSS3, TailwindCSS, Bootstrap, Less, Figma
+- 💻 Development: JavaScript/TypeScript, CSS, HTML, SQL, React, Next.js, React Native, Redux, Webpack, Vite, Node.js, Express 
+- 🎨 UX/UI design: TailwindCSS, Bootstrap, Less, Figma
   
 
 <h3 align="left">Languages and Tools:</h3>
